@@ -24,9 +24,7 @@ A comprehensive, production-ready admin dashboard built with Next.js 14, Materia
 - [Future Enhancements](#future-enhancements)
 - [License](#license)
 
-## 🚀 Live Demo
 
-The application is deployed and available at: [https://help-study-abroad.vercel.app](https://help-study-abroad.vercel.app)
 
 ## ✨ Features
 
